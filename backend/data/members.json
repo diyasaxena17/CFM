@@ -50,4 +50,21 @@
       { "type": "linkedin", "url": "#" }
     ]
   }
+
+  {
+  "name": "Diya Saxena",
+  "cohort": "graduating-year", // 2030
+  "url": "your-website", // MUST be valid or '#'
+  "location": "Toronto, ON",
+  "role": "Pension Analyst",
+  "header": "lorem ipsum dolor sit amet",
+  "description": "lorem ipsum dolor sit amet",
+  "experiences": ["Pension Analyst @ FSRA", Organizer @ Hack The North"],
+  "interests": ["Music","Climbing","FinTech"],
+  "avatar": "/images/avatars/your-image", // MUST match avatar path
+  "socials": [
+    { "type": "github", "url": "https://github.com/diyasaxena17" }, // pick and choose display socials 
+    { "type": "linkedin", "url": "https://www.linkedin.com/in/diya-saxena/" }, // replace '#' with your links 
+    ]
+  }
 ]
